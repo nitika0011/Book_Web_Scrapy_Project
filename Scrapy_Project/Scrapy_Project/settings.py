@@ -18,7 +18,7 @@ FEEDS = {
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
 
-SCRAPEOPS_API_KEY = "54957f5f-3a4f-46d4-9d7a-b5b5f7b484c4"
+SCRAPEOPS_API_KEY = ""
 SCRAPEOPS_FAKE_USER_AGENT_ENDPOINT = "https://headers.scrapeops.io/v1/user-agents"
 SCRAPEOPS_FAKE_USER_AGENT_ENABLED = True
 SCRAPEOPS_NUM_RESULTS = 50
